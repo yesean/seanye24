@@ -1,10 +1,6 @@
 # Hi there I'm Sean! 👋
 
-I’m an SDE intern at Amazon this summer. I’m also a second year undergrad at UCSD studying Computer Science. I enjoy hacking away at web dev projects and tinkering with my Arch Linux machine.
+I’m a third year undergrad at UCSD studying Computer Science. I enjoy hacking away at [random projects](https://github.com/seanye24?tab=repositories) as well as [tinkering](https://github.com/seanye24/dotfiles) with cool software like [Arch](https://archlinux.org/) and [Neovim](https://neovim.io/).
 
-- 🔭 I’m currently working on anything I find interesting, which is a lot of web apps with JavaScript stacks.
 - 📫 How to reach me: Shoot me an [email](mailto:seanye24@gmail.com) or send me a message on [LinkedIn](https://www.linkedin.com/in/seancye/)!
-- ⚡ Fun fact: I like building custom mechanical keyboards (currently rocking 62g Alpacas with 205g0).
-
-# Links
-[Website](https://seancye.com) • [LinkedIn](https://www.linkedin.com/in/seancye/) • [GitHub](https://github.com/seanye24) • [Todo List](https://minimaltodos.com)
+- ⚡ Fun fact: I like building custom keyboards (currently rocking 62g Alpacas with 205g0!).
